@@ -1,0 +1,11 @@
+#ignoring environments
+venv
+*venv
+venv*
+env
+*env
+env*
+
+
+#ignoring data files
+resumes/
